@@ -25,8 +25,13 @@ Functional Requirements:
 15.	The system will generate monthly invoices based on the child's attendance.
 16.	Administrators can track all payment transactions and send reminders for pending bills.
 17.	If user likes their services, they can also share their link directly from the website to their social media apps.
-Tools: 
-•	HTML,CSS, JavaScript (Front-end)
-•	MYSQL (Backend)
-•	PHP (Server aspect programming)
+<br>
+Tools: <br>
+
+•	HTML,CSS, JavaScript (Front-end)<br>
+
+•	MYSQL (Backend)<br>
+
+•	PHP (Server aspect programming)<br>
+
 •	XAMP (Web Application Server) 
